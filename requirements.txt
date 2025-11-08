@@ -1,7 +1,10 @@
-# Core Data Analysis Libraries
-numpy>=1.24.0
-pandas>=2.0.0
+# Основные библиотеки для анализа данных
+numpy>=1.26.0
+pandas>=2.2.0
 
-# Visualization Libraries
-matplotlib>=3.7.0
-seaborn>=0.12.0
+# Библиотеки для визуализации
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Получение данных из онлайн-источников
+pandas_datareader>=0.10.0
